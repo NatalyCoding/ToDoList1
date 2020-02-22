@@ -29,7 +29,7 @@ body {
     padding: 40px 20px 30px;
     width: 100%;
     text-align: center;
-    background: linear-gradient(to right, #2121cc, #0f58a1);
+    background: linear-gradient(to right, #771ca1, #2121cc);
     color: #ffffff;
     line-height: 36px;
     border-radius: 10px 10px 0 0;
@@ -95,11 +95,8 @@ input[type="checkbox"] {
     bottom: 20px;
     left: 20px;
     padding: 16px 16px;
+    color: #4e5466;
     border: 1px solid #0f58a1;
     border-radius: 10px;
     width: 90%;
-}
-
-.addTask[placeholder] {
-    color: #aaa7a7;
 }
